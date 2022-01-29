@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1643425232 source:c:\users\chaos\desktop\spring22\parallel\assignment1\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<omp.h>
+	<fstream>
+	<atomic>
+	<vector>
+	<chrono>
+
+1643425232 source:g:\parallelassignments\assignment1\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<omp.h>
+	<fstream>
+	<atomic>
+	<vector>
+	<chrono>
+

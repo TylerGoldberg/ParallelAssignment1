@@ -22,6 +22,7 @@ After this marking, it is easy to output the primes, sum them up, and count them
 After setting the threadcount to 8, the openmp library is used to more evenly distribute the workload between the threads during intensive loops.
 As the loop for determining as great varience for runtime, dynamic scheduling was used instead of static.
 
-Testing on my machine provided runtimes under 1.5 seconds for 10^8 numbers.
+Testing on my machine provided runtimes under 1.5 seconds for 10^8 numbers. Sample output from my machine can be seen in samplePrimes.txt within the outputs folder.
+Eustis was also used to test. Runtime was slightly longer than my own.
 Also tested was numbers far less and more than the requisit 10^8.
 
